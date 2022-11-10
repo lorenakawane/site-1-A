@@ -19,7 +19,7 @@
 #principal {
     width: 80%;
     height: 600px;
-    background-color:rgb(182, 182, 204);
+    background-color:rgb(23, 23, 24);
     float: left;
     margin-top: 10%;
     margin-bottom: 10px;
@@ -32,7 +32,7 @@ p {
     text-align: center;
     font-family: arial, helvetica, sans-serif;
     font-size: 16px;
-    color:blue;
+    color:rgb(226, 226, 243);
 }
 
 h2 {
