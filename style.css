@@ -19,7 +19,7 @@
 #principal {
     width: 80%;
     height: 600px;
-    background-color:rgb(239, 239, 247);
+    background-color:blue(239, 239, 247);
     float: left;
     margin-top: 10%;
     margin-bottom: 10px;
